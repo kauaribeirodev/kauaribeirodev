@@ -18,7 +18,7 @@ Sou Desenvolvedor Python com foco em Back-End, APIs e Análise de Dados. Atuei c
 
 ### 🛠️ Tecnologias:
 `Python` `Flask` `Django` `MySQL` `Power BI` `Pandas` `NumPy`  
-`Selenium` `BeautifulSoup` `OpenPyXL` `JavaScript` `Git` `Linux`
+`Selenium` `BeautifulSoup` `OpenPyXL` `Git` `Linux`
 
 ---
 
