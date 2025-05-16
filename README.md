@@ -1,48 +1,33 @@
-<h2 align="left">Hi 👋! My name is Kauã and I'm Software Developer 👨🏻‍💻</h2>
+### 👋 Olá! Me chamo Kauã Ribeiro
 
-###
+Sou Desenvolvedor Python com foco em Back-End, APIs e Análise de Dados. Atuei com construção de APIs REST, automações web e análise de dados com Python. Também possuo experiência com desenvolvimento de dashboards em Power BI e integração de dados com MySQL.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauaribeirodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=kauaribeirodev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauaribeirodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
-</div>
+---
 
-###
+### 🚀 Principais habilidades:
+- 🔹 Desenvolvimento Back-End com Python, Flask e Django
+- 🔹 Criação e consumo de APIs RESTful
+- 🔹 Web Scraping e automações com Selenium e BeautifulSoup
+- 🔹 Manipulação e análise de dados com Pandas, NumPy e OpenPyXL
+- 🔹 Banco de dados SQL (MySQL) e CRUD
+- 🔹 Dashboards e relatórios com Power BI (Power Query, DAX, modelagem de dados)
+- 🔹 Git, GitHub e versionamento de código
+- 🔹 Metodologias ágeis: Scrum e Kanban
 
-<h4 align="center">Languages and Tools:</h4>
+---
 
-###
+### 🛠️ Tecnologias:
+`Python` `Flask` `Django` `MySQL` `Power BI` `Pandas` `NumPy`  
+`Selenium` `BeautifulSoup` `OpenPyXL` `JavaScript` `Git` `Linux`
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+---
 
-###
+📫 **Conecte-se comigo no LinkedIn:**  
+[linkedin.com/in/kauaribeiro](https://www.linkedin.com/in/kauaribeiro)
 
-<h4 align="center">Connect with me:</h4>
+🌱 Atualmente estudando Inteligência Artificial e Machine Learning com Python.  
+🎯 Em busca de oportunidades como Desenvolvedor Python Júnior ou Back-End.
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%A3ribeiro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/olakaua/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+⭐ Obrigado por visitar meu perfil!
