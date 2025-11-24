@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Kauã Ribeiro
 
-**`QA Junior (Analista de Qualidade Júnior)`**
+**`QA Junior (Analista de Qualidade de Software Júnior)`**
 
 Me chamo Kauã, tenho 21 anos e sou de São Bernardo do Campo, São Paulo. Atualmente, estou cursando Ciência de Dados na Anhanguera mas meus estudos são voltados para a área de QA, com foco em automação de testes e garantia da qualidade.
 
