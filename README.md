@@ -44,8 +44,8 @@ Atualmente curso Ciência de Dados na Anhanguera e direciono meus estudos para a
 
 <br/><br/><br/><br/>
 
----
-<br/><br/>
+
+<br/><br/><br/><br/>
 ## 📬 Contato
 
 📎 **LinkedIn:** https://www.linkedin.com/in/kauaribeirodev/  
