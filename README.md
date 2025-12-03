@@ -1,8 +1,14 @@
-# 🧑🏻‍💻 Kauã Ribeiro
+# 🧑🏻‍💻 Kauã Ribeiro  
+**QA Junior (Analista de Qualidade de Software)**
 
-**`QA Junior (Analista de Qualidade de Software Junior)`**
+Sou **QA Júnior** com formação em **Ciência de Dados**, focado em testes manuais e automatizados para garantir a entrega de software com alta qualidade, estabilidade e segurança.
 
-Atualmente curso Ciência de Dados na Anhanguera e direciono meus estudos para a área de QA, com foco em testes automatizados, garantia da qualidade, ferramentas modernas e boas práticas para apoiar entregas mais seguras e eficientes.
+Atualmente direciono meus estudos e projetos para **automação de testes Web e API**, utilizando ferramentas modernas e práticas adotadas pelo mercado de tecnologia.
+
+---
+
+## 🎯 Objetivo
+Evoluir continuamente na área de **Quality Assurance**, contribuindo com testes eficientes, automação estruturada e boas práticas que elevem o nível de qualidade de produtos e sistemas.
 
 ---
 
@@ -24,6 +30,46 @@ Atualmente curso Ciência de Dados na Anhanguera e direciono meus estudos para a
 
 ---
 
+## 🧪 Automação de Testes
+- Cypress  
+- Postman  
+- ServeRest  
+- Page Objects  
+- Hooks (before, beforeEach, after, afterEach)  
+- Fixtures (massa de dados)  
+- Comandos customizados  
+- Relatórios automatizados  
+
+---
+
+## 🌐 Testes de API REST
+- Métodos HTTP (GET, POST, PUT, DELETE)  
+- Status Codes  
+- Contratos e documentação de API  
+- JSON (objetos, arrays e valores)  
+- Estratégias de testes de API  
+- Fluxo completo de testes  
+- Automação de API REST  
+
+---
+
+## 🖥️ Testes Web / UI
+- Testes de Interface (UI/GUI)  
+- Testes de Acessibilidade  
+- Avaliação Heurística  
+- DevTools  
+- HTML, CSS, DOM  
+
+---
+
+## 📚 Metodologias e Práticas
+- BDD (Cucumber / Gherkin)  
+- Planejamento e execução de casos de teste  
+- Scrum e Kanban  
+- Testes ágeis  
+
+---
+
 ## 📊 Estatísticas
 
 <p>
@@ -42,11 +88,10 @@ Atualmente curso Ciência de Dados na Anhanguera e direciono meus estudos para a
   />
 </p>
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
+---
 
-<br/><br/><br/><br/>
-## 📬 Contato
-
+## 📬 Contato  
 📎 **LinkedIn:** https://www.linkedin.com/in/kauaribeirodev/  
 📧 **E-mail:** **kauaribeirodev@outlook.com**
